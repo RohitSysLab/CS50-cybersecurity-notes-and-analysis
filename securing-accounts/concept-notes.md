@@ -26,11 +26,14 @@ Example: nested loops iterating through digits and ASCII letters constants
 
 ## 3. Technical Observation
 
-The crack.py example demonstrated how simple scripts can attempt thousands of password combinations quickly.
+A practical demonstration is implemented in `code/crack.py`.
 
-This shows:
-- Weak passwords fail rapidly.
-- Short passwords are mathematically vulnerable.
+The script simulates a brute force / dictionary-style password attempt by iterating through possible combinations programmatically.
+
+This demonstrates:
+
+- Weak passwords is easier to brute force 
+- short passwords are mathematically vulnerable
 
 ## 4. Human Factor Problem
 
