@@ -24,6 +24,23 @@ An attacker uses a predefined list of likely passwords to attempt access.
 An attacker systematically tries all possible combinations using code.
 Example: nested loops iterating through digits and ASCII letters constants
 
+### NIST(National Institute of standards and technology)
+it is an organisation in USA that recommends guidelines and policy related to cybersecurity practices fo governments, companies and critical infrasstructure
+
+### 2-Factor authentication
+its a way of verification and authentication of identity using only two factors such as a password and something which we have such as codes generated in authenticator apps on our device 
+
+### Multifactor-Authentication
+it is a secure way of verification and authentication of identity using more than two factors, such as passwords,SMS,OTP,codes on authenticator app,biometric like fingerprint
+
+## keylogger
+keylogger is a programm that tracks keystroke or in other words it can track what we type on our device
+
+usage:-attackers can use this kind of software/programm to send our typing habits or what we type on keyboards to remote servers via internet
+
+## sim swapping attack
+sim swapping is nothing more than convincing the mobile carrier to transfer the victim's phone number to another sim and gaining access to their bank account,social media, email. an attacker succeeds generally because of gathering opensource information about the victim 
+
 ## 3. Technical Observation
 
 A practical demonstration is implemented in `code/crack.py`.
