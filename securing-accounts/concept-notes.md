@@ -35,7 +35,7 @@ This demonstrates:
 - Weak passwords is easier to brute force 
 - short passwords are mathematically vulnerable
 
-## 4. Human Factor Problem
+## 4. Human as a attack vector
 
 If passwords become too complex:
 - Users may reuse passwords.
@@ -46,6 +46,6 @@ Security must balance strength and usability.
 
 ## 5. Deeper Reflection
 
-The biggest vulnerability may not be the system — but human behavior.
+The biggest vulnerability may not be the system/Technology — but human behavior.
 
 Improving security often requires improving user habits, not just writing better code.
