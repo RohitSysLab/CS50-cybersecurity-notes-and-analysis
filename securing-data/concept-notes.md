@@ -23,12 +23,12 @@ Poly1305-AES, SipHash, VMAC, UMAC: Fast, used in network protocols and authentic
 
 ### Hashing 
 hashing refers to the process of implementation of hash function on input data
-(check hash.py where I demonstrated it conceptually)
+(check hashing.py where I demonstrated it conceptually)
 
 
 ### Salting
 salting generally means adding a random value to a input data before its hashed, making it really hard for the attacker to crack it by costing time,energy and money 
-(check salt.py where I demonstrated it conceptually)
+(check salting.py where I demonstrated it conceptually)
 
 
 
